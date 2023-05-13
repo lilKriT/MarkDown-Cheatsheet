@@ -59,3 +59,28 @@ _This is_ italic
 <!-- Image -->
 
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Github Specific -->
+
+<!-- Code Blocks -->
+
+```bash
+yarn create vite
+```
+
+```js
+console.log("Markdown");
+```
+
+<!-- Tables -->
+
+| Name     | Email     |
+| -------- | --------- |
+| Name one | Email one |
+| Name two | Email two |
+
+<!-- Tasklist -->
+
+- [x] Task one
+- [x] Task two
+- [ ] Task three
